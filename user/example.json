@@ -50,14 +50,14 @@
       },
       {
         "type": "AnPush",
-        "enabled": flase,
+        "enabled": false,
         "token": "your_token",
         "channel": "通道ID,多个用英文逗号隔开",
         "to": "根据官方文档获取"
       },
       {
         "type": "WxPusher",
-        "enabled": flase,
+        "enabled": false,
         "spt": "your_spt"
       },
       {
